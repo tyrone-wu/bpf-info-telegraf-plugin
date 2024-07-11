@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	_ "github.com/tyrone-wu/bpf-info/plugins/inputs/bpf_info"
+	_ "github.com/tyrone-wu/bpf-prog/plugins/inputs/bpf_prog"
 
 	"github.com/influxdata/telegraf/plugins/common/shim"
 )
