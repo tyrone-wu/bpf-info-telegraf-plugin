@@ -4,7 +4,7 @@ Collects metadata information on BPF programs loaded on the host.
 
 ## Configuration
 
-```conf
+```toml
 # Fetch metadata metrics from BPF programs on the host.
 [[inputs.bpf_prog]]
   ## Optional tags
